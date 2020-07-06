@@ -1,0 +1,9 @@
+${AnsiColor.BLUE}
+       .__                                 .__
+  _____|  |__   ____   ____    ____ ___.__.|__|
+ /  ___/  |  \_/ __ \ /    \  / ___<   |  ||  |
+ \___ \|   Y  \  ___/|   |  \/ /_/  >___  ||  |
+/____  >___|  /\___  >___|  /\___  // ____||__|
+     \/     \/     \/     \//_____/ \/
+${AnsiColor.BRIGHT_GREEN}
+::: ${info.app.name}-zyzl-reminder (version:${info.app.version}) :::    ＼(^O^)／    Spring-Boot ${spring-boot.version}
